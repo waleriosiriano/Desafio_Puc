@@ -25,9 +25,9 @@ Métodos para limpar o tabuleiro, realizar uma jogada, verificar o fim do jogo, 
 Classe principal que controla o fluxo do jogo.
 Possui métodos para iniciar o jogo, alternar entre jogadores, verificar o fim do jogo e imprimir o tabuleiro.
 
-Funcionalidades:
+//Funcionalidades:
 
-Início do Jogo:
+//Início do Jogo:
 O jogo começa solicitando o nome e o símbolo do jogador humano.
 Fluxo do Jogo:
 O jogo alterna entre as jogadas do jogador humano e do computador.
