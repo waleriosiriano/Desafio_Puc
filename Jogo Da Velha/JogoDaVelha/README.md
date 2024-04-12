@@ -1,7 +1,4 @@
-# desafio-puc
-Fórum Avaliativo - Gerência de Configuração de Software
-
-O "Jogo da Velha" :
+#O "Jogo da Velha" :
 Classes:
 1.Jogador:
 Representa um jogador genérico.
@@ -13,7 +10,7 @@ Subclasse de Jogador.
 Solicita ao usuário seu nome e seu símbolo.
 Possui um método para escolher a melhor jogada.
 
-2.Computador:
+2. Computador:
 Subclasse de Jogador.
 Escolhe a jogada de forma estratégica para tentar vencer o jogo.
 
