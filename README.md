@@ -26,6 +26,7 @@ Classe principal que controla o fluxo do jogo.
 Possui métodos para iniciar o jogo, alternar entre jogadores, verificar o fim do jogo e imprimir o tabuleiro.
 
 Funcionalidades:
+
 Início do Jogo:
 O jogo começa solicitando o nome e o símbolo do jogador humano.
 Fluxo do Jogo:
@@ -33,6 +34,7 @@ O jogo alterna entre as jogadas do jogador humano e do computador.
 Cada jogador faz sua jogada, e o tabuleiro é atualizado.
 Verificação do Fim do Jogo:
 Após cada jogada, o programa verifica se há um vencedor ou se houve empate (velha).
+
 Finalização do Jogo:
 O jogo continua até que o usuário decida encerrar.
 Ao final, é exibido um placar com o número de vitórias de cada jogador.
