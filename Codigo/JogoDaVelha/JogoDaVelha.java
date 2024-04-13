@@ -39,7 +39,7 @@ public class JogoDaVelha {
     private void realizarJogada(Jogador jogador) {
         System.out.println(jogador.getSimbolo() == 'X' ? "Vez do jogador " + ((Humano) jogador).getNome() : "Vez do computador");
          jogador.melhorJogada(tabuleiro);
-        //tabuleiro.realizarJogada(jogada[0], jogada[1], jogador);
+        ///tabuleiro.realizarJogada(jogada[0], jogada[1], jogador);
         tabuleiro.imprimir();
     }
 
