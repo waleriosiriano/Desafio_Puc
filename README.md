@@ -1,4 +1,4 @@
-# desafio-puc
+# desafio-puc feito pelo Git Desktop
 Fórum Avaliativo - Gerência de Configuração de Software
 
 O "Jogo da Velha" :
